@@ -12,7 +12,7 @@ A lightweight, custom Host-based Intrusion Detection System (HIDS) built in Pyth
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/mdunaisk/File-Integrity-Checker.git](https://github.com/mdunaisk/File-Integrity-Checker.git)
+git clone [https://github.com/saad-myself/File-Integrity-Checker.git](https://github.com/saad-myself/File-Integrity-Checker.git)
 cd File-Integrity-Checker
 ```
 
